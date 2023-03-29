@@ -1,0 +1,7 @@
+username
+email
+password 
+age 
+phone 
+gender 
+role 

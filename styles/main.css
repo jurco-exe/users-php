@@ -1,0 +1,29 @@
+* {
+  box-shadow: none !important;
+  transition: all 0.3s !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.form-check-input:focus,
+.form-select:focus {
+  outline: none !important;
+}
+
+.btn-black {
+  border: 1px solid #161a1d;
+  background-color: white;
+  color: #161a1d;
+}
+.btn-black:hover {
+  background-color: #161a1d;
+  color: white;
+}/*# sourceMappingURL=main.css.map */
