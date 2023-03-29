@@ -46,15 +46,15 @@ include('../components/header.php'); ?>
                                 <div class="col-4">
                                     <h5>Gender*</h5>
                                     <div class="form-check">
-                                        <input type="radio" class="form-check-input" id="male" name="gender " value="male" required>
+                                        <input type="radio" class="custom-control-input dark" id="male" name="gender " value="male" required>
                                         <label class="form-check-label" for="male">Male</label>
                                     </div>
                                     <div class="form-check">
-                                        <input type="radio" class="form-check-input" id="female" name="gender" value="female" required>
+                                        <input type="radio" class="custom-control-input dark" id="female" name="gender" value="female" required>
                                         <label class="form-check-label" for="female">Female</label>
                                     </div>
                                     <div class="form-check">
-                                        <input type="radio" class="form-check-input" id="other" name="gender" value="other" required>
+                                        <input type="radio" class="custom-control-input dark" id="other" name="gender" value="other" required>
                                         <label class="form-check-label" for="other">Other</label>
                                     </div>
                                 </div>
